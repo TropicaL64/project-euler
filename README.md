@@ -1,1 +1,1 @@
-# project-euler
+Student solution for Project Euler Problem 1
